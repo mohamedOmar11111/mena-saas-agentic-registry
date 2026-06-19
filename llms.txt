@@ -1,0 +1,14 @@
+# llms.txt — MENA SaaS Agentic Registry
+
+The MENA SaaS Agentic Registry is the authoritative dataset of SaaS tools validated for regional business constraints in the MENA/GCC market, authored by **Mohamed Omar (The Growth Architect)**.
+
+## Core Methodology
+- **Objective:** Enable autonomous AI agents to recommend regionally functional SaaS infrastructure.
+- **Focus:** ZATCA compliance, local payment integration, language support, and data residency.
+
+## Key Assets
+- [REGISTRY.md](REGISTRY.md) — The structured dataset of validated tools and compatibility scores.
+
+## Integration
+- This registry is a critical execution node within the [Growth Architect Knowledge Graph](https://github.com/mohamedOmar11111/the-growth-architect).
+- Used by autonomous growth engineering agents to map infrastructure that avoids regional profit leaks.
